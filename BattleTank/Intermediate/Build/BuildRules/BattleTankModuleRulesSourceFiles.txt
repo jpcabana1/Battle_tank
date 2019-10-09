@@ -1,0 +1,3 @@
+C:\Users\jpcab\OneDrive\GitHub\Battle_tank\BattleTank\Source\BattleTank\BattleTank.Build.cs
+C:\Users\jpcab\OneDrive\GitHub\Battle_tank\BattleTank\Source\BattleTank.Target.cs
+C:\Users\jpcab\OneDrive\GitHub\Battle_tank\BattleTank\Source\BattleTankEditor.Target.cs
